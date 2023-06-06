@@ -5,5 +5,5 @@ Website of an imaginary travel agency created for a competition.
 Easiest way to run project:
  - Download [XAMPP](https://www.apachefriends.org/pl/index.html)
  - move all files to `htdocs` directory
- - Run `Apache` and `MySQL` services
+ - Run `Apache` and `MySQL` services in `XAMPP`
  - Import `export.sql` database to `MySQL`
